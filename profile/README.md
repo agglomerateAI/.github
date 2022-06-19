@@ -1,6 +1,4 @@
 ## Hi there 👋
- 🙋 Machine Learning, Computer Vision, and Natural Language Programming...
-
 <!--
  
 **Here are some ideas to get you started:**
