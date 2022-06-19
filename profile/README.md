@@ -1,7 +1,8 @@
 ## Hi there 👋
+ 🙋 Machine Learning, Computer Vision, and Natural Language Programming...
 
 <!--
-
+ 
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
